@@ -1,5 +1,7 @@
 # src_edu
 为各位出色的渗透工程师提供攻击目标。
+# 更新
+加入从 http://edu.360.cn/daxue/ 抓取的两千余个教育网一级域名
 # 文件说明
 * edu_domains.txt  --> edu.cn主站 1784个，可能需要加入www才能正常访问
 * edu_subdomains_big.txt --> edu.cn 二级域名，共十万余个,从老和尚的扫描器中分离
